@@ -1,0 +1,8 @@
+host: 10.182.1.0
+Port: 9997
+Database_Username: postgres
+Database_pass: cdac123
+Database_name: smart_airport_terminal_sensor_db
+Database_hostid: 10.182.1.0
+Port_no        : 5432
+Randum_no_range_2: 999 
